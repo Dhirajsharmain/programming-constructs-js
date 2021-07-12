@@ -8,6 +8,7 @@
      myArray.push(num);
  }
 
+ // sortind array
  myArray.sort();
 
  console.log("\n Sorted Array Value : " + myArray);
